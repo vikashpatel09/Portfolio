@@ -418,6 +418,9 @@ section .title::after{
 .contact .contact-content .info .sub-title{
     color: #333;
 }
+.mail{
+    color: #333;
+}
 .contact .right form .fields{
     display: flex;
 }
